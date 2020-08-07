@@ -28,21 +28,41 @@ http://www.broffice.org.br/creditos
 SOBRE ESTA ATUALIZAÇÃO
 ======================
 
-.Inclusão de: autorrotação. Colaboração de Tiago Hillebrandt;
- Removido o afixo 'D' da palavra 'neossocialista'. Colaboração Leonardo 
- Fontenelle. 
-.Inclusão de: micropartículas, microambiente, territorialização, 
- multiterritorialidade, antienvelhecimento, rearrumação;
-.Exclusão do termo 'candidado(a)'. Colaboração Douglas A. Augusto;
-.Inclusão de 'microensino'. Colaboração de Orozimbo José Daolio;
-.Inclusão de: auriculopuntura, avulsionada (o), insegura, maldita, 
- androgenética, heterozigota, imunoturbidimetria, periventricular(es), 
- polivitamínico(s), pseudonódulo, neovascular, retnoico. 
- Colaboração Eduardo Mundim;
-. Inclusão de 'reautuação'. Colaboração Mario Reginaldo;
-. Atualização de nomes de medicamentos. Colaboração Leonardo 
- Fontenelle. 
-. Inclusão de 'supersafra', colaboração Marcos Vinícius Piccinini;
+. Alteração da regra 'B' para inclusão de plural para sufixos 'és'
+  Exemplo: viés - vieses;
+. Correção da regra 'a' para conjugação correta do verbo 'cuspir'.
+  Não estava contemplado 'cospem';
+. Correção da regra 'm' para verbos terminados em quir/guir nas formas de
+  ênclises e mesóclises
+. Inclusão do comando BREAK para permitir a verificação correta dos compostos;
+. Inclusão do comando MAXNGRAMSUGS para limitar o número de sugestões;
+. Atualização da regra REP melhorando as opções de sugestão;
+. Inclusão de 'hidrossanitário', colaboração de Gilmar Grespan;
+. Inclusão de 'tropeirismo', colaboração de Tiago Hillebrandt;
+. Correção da regra 'a' para verbos para inclusão de superlativos;
+. Inclusão de: marquetagem, lasqueira, esquerdopata, latinoide, colaboração Edson Costa;
+. Correção da regra de sugestões 'REP';
+. Inclusão de: sudoestino e Sanepar, colaboração Marcos Vinícius Piccinini   
+. Correção da conjugação de verbos nas formas de ênclises e mesóclises;
+. Inclusão de regras para composição de paises;
+. Inclusão das siglas dos partidos políticos brasileiros;
+. reforço do prefixo ex-; 
+. Inclusão de: precursoramente, neoconstitucionalismo, alopoiese, alopoiético,
+  autopoiético, BrOffice, paradoxização, programaticidade, sistemismo, comteano,
+  durkheimiano e luhmanniano. Colaboração Pablo Feitosa;
+. Exclusão de 'fundamenais'. Colaboração de João Paulo Vinha Bittar;
+  Judicialização.  Colaboração Pablo Feitosa;
+. Inclusão de: Judicialização, externaliza, externalizado, externalização, externalizei, etc.
+  Paradoxização, desparadoxização, procedimentalizar, procedimentalização , 
+  procedimentalizo, etc. Colaboração Pablo Feitosa;
+. Alterações no Divsilab. Colaboração Flavio Figueiredo Cardoso;
+. Aplicação das regras de prefíxo: sub, super, auto, re, inter, etc. na formação de novos
+  compostos.  
+. Inclusão de:  racistoide, melequento, burraldo, entregação, prum, pruns
+  (contração para+artigo), comezinha, yakuzá (máfia japonesa) e figuraça. 
+  Exclusão de: 'pãozinhos' no plural está incorreto. Colaboração de Edson Costa.
+. Inclusão de 'dimetilsulfato' e 'dietilsulfato'. Colaboração Luis Alcides Brandini De Boni;
+
 
 =======================================================
 COMO INSTALAR O VERIFICADOR BRASILEIRO NO BROFFICE.ORG
