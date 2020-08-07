@@ -14,7 +14,7 @@ by the Mozilla Foundation. Credits are available at
 http://pt-br.libreoffice.org/projetos/projeto-vero-verificador-ortografico/
 and you can find new releases at
 
-Copyright (C) 2006 - 2012 por/by Raimundo Santos Moura <raimundo.smoura@gmail.com>
+Copyright (C) 2006 - 2013 por/by Raimundo Santos Moura <raimundo.smoura@gmail.com>
 
 =============
 APRESENTAÇÃO
@@ -37,122 +37,151 @@ http://pt-br.libreoffice.org/projetos/projeto-vero-verificador-ortografico/
 ======================
 SOBRE ESTA ATUALIZAÇÃO
 ======================
-. Inclusão do Corretor Gramatical baseado no Lightproof;
-. Na versão 2.1.0, modificações para melhoria de uma regra (terminações mento)
-  ocasionaram o desaparecimento de algumas as palavras 'carreamento',
-  'compartilhamento', 'deslocamento', 'desfolhamento', 'estreitamento',
-  'disciplinamento', 'estiramento', 'georreferenciamento', 'patenteamento'
-  e 'sequenciamento',  sanadas na Versão 2.1.1. 
-. Exclusão de: alem. Colaboração de Eduardo Mundim; 
-. Inclusão de:  Justinópolis, macrodantina, micropapilar, normotensa,
-  pré-jantar, reexplicado, reexplicar e tibiofibular.  Colaboração de
-  Eduardo Mundim;
-. Inclusão de: intrapartidário e  irressarcida. Colaboração de João
-  Eduardo Strottmann;
-. Inclusão de nomes bíblicos: Abias, Abiud, Acaz, Aminadab, Arfaxad,
-  Booz, Eber, Eleazar, Eliacim, Eliud, Elmadão, Esron, Faleg, Henoc,
-  Henós, Hesli, Jané, Jared, Jonão, Lamec, Maat, Malaleel, Matat,
-  Naasson, Nacor, Nagé, Obed, Raab, Ragau, Resa, Sadoc, Salmon, Sarug,
-  Semei. Colaboração de Eduardo Mundim;
-. Inclusão de: isoecoico, pleomórfico, subterapêutico, transabdominal.
-  Colaboração de Eduardo Mundim;
-. Inclusão de: microtubo e antiasfixiante. Colaboração de Guilherme
-  Rebecchi;
-. Inclusão das abreviatursa: abrev., Adv.º, adv.º, cm², cm³, cód., cx.,
-  depto., dpto., Drs., DST, bras., exp., ext., ff., fg., públ., fl.,
-  cf., dep. e Dra. Colaboração de Guilherme Rebecchi;
-. Inclusão do verbo cofundar, e das palavras cardiolipídico, 
-  extra-acadêmica, coadequar e botucatuense.  Colaboração de
-  Guilherme Rebecchi;
-. Inclusão de: reestilizar, reesposado, reesposar, reespumas,
-  reestabelecer, reestimulado, reestimulante, reestimular,
-  reestipulação, reestipulado, reestipulador, reestipular.
-  Colaboração de Guilherme Rebecchi;
-. Inclusão de: decupagem, decupável, motoventilador,  motoboy,
-  motor-ocular. Colaboração de Guilherme Rebecchi.
-. Inclusão de: endócrino-metabólico, pré-requisitado e
-  primoinfecção. Colaboração de Eduardo Mundim;
-. Inclusão de anti-héctico, anti-helênico, anti-hélice, anti-hético,
-  anti-hidrotropina, anti-iberístico, anti-igualitário, anti-igualitarismo,
-  anti-igualitarista, anti-igualitarístico, anti-iluminístico, anti-inatismo,
-  anti-íneo, anti-infabilístico, anti-infalibilístico, anti-integralístico,
-  anti-interferencial, anticolonista, anticontagionista, antidreyfusista,
-  antievolucionário, antifens, antimanicomial, antissocialístico, antissofístico,
-  antissorologia, antissorológico, antissovietismo, antissovietista,
-  antissovietístico, correpetidora, ântia, astros-reis, correpetição,
-  correpetir, cré, creaseyita, crêmbalo, crênea, crênico, desleucocitação,
-  guiratinga, hemocomponentes, lesma-de-conchinha, microcuveta, moto-contínuo,
-  moto-perpétuo, moto-próprio, motos-contínuos, motos-perpétuos, motos-próprios,
-  pilularmente, primo-infeção, rioclarense, trifacetado.
+. Inclusão de: autoatualizar, subposição. Colaboração de Vera Cavalcante.
+. Inclusão de: assuntor, coassunção, perfurocortocontundente,
+  perfurocontundente e cortocontundente. Colaboração de João Eduardo Strottmann.
+. Inclusão de: macrogotejamento, vertebromuscular, marca-página,
+  transmídia, policlonal e papainizada. Colaboração de Guilherme Rebecchi. 
+. Inclusão de: acontecimental, adiministrativo-pedagógico, antivaríola,
+  apicoamento, archaea, autoanticorpo, autoeliminar, autossubsistência,
+  balbuciamento, baratíssimo, beijaço, bem-inserido, betacateninas,
+  bolsa-permanência, burocrato-normativo, camarassauru, cientifização,
+  classificacional, clínico-cirúrgico, Coca-Cola, coimbrãos, coindexação,
+  computólogo, cultural-religioso, desmoplasia, desmoplásico, dessaturado,
+  didático-escolar, diligentíssimo, econômico-produtivo, edifício-escola,
+  eletrocatalítico, encalacramento, endoscopicamente, endoscopista, enlamaçado,
+  entelodonte, entoacional, Escola-Modelo, espetacularização, esquadrinhamento,
+  Étnico-Racial, etno-histórico, etnoconstrucionismo, etnoeducacional, exogeneidade,
+  extrainstitucional, extraturno, favelão, filosófico-existencial, flutuacional,
+  geoposicionamento, Governador-Geral, grafocêntrico, greco-árabe, hadrossauro,
+  hamartomatoso, hiperproliferação, HLA, HRTV, inapercebidamente, interempresarial,
+  interfrásica, interobservador, intraescolar, intramucoso, intraorganizacional,
+  linfovascular, linguístico-comunicativo, lógico-abstrato, lógico-analítico,
+  macro-organização, macroagricultura, macrossetor, macrotendência,
+  médico-assistencial, médico-dentárias, megapotência, metafunção, metafunção,
+  micro-organização, micro-RNAs, microabertura, microagricultura, microgestão,
+  microideologia, microrregulação, microssetor, microtendência, mimivírus,
+  miniacademia, miniarroz, minicolegiado, minigrão, minipôster, miRNA, mucinoso,
+  mucosectomia, multientidade, mutaburrassauro, nanocarbono, nanografeno,
+  nanografeno, não-polipoide, neurorregeneração, Palavras-Chave, pandoravírus,
+  pinhole, planaridade, planaridade, político-eleitoreira, pré-elaborado,
+  Pré-Textual, precaríssimo, pseudoempresário, pseudoestratificado,
+  pseudoinvasão, pseudoinvasivo, pseudoparticipativo, público-comunitário,
+  punctório, redescontos, semantificar, semiatacadista, semipediculado,
+  semiqualificação, sino-brasileira, sobrecusto, sociorracial, sódio-enxofre,
+  subcentro, superdotação, supersistema, tecnoburocrata, teórico-científico,
+  teórico-descritivo, tipado, toxicofilia, transfobia, transfrásica,
+  túbulo-viloso, valor-trabalho, valores-trabalhos, webjornalismo.
+. Inclusão de: outorgativa, derrelinquir, delitual, ininscritibilidade,
+  aformalidade e exigir-se-lhe-ia. Colaboração de João Eduardo Strottmann.
+. Inclusão de: incidível, Ludwig Wittgenstein e liquidativo. Colaboração
+  de João Eduardo Strottmann.
+. Inclusão de: reestender, desjuridiciza, desjuridicizante, pré-juridicizante,
+  suspensibilidade, interrompibilidade, irratificável, pré-excluiria, cogentemente
+  jurislativo, Goldschimidt e prius. Colaboração de João Eduardo Strottmann.
+. Inclusão de: extrapetita, ultrapetita e infrapetita. Colaboração de João
+  Eduardo Strottmann.
+. Inclusão de: restricionista. Colaboração de Luyse Moraes Moura.
+. Inclusão de: Adolphus, aí-ibiretê, aí-igapó, aí-mirim, aí-pixuna,
+  aís-ibiretês, aís-igapós, aís-mirins, aís-pixunas, ajudanta, âmago-furado,
+  âmagos-furados, amalgamamento, amamentamento, amaralista, amargamento,
+  amatronamento, amatutamento, âmbar-branco, âmbares-brancos, âmbares-grises,
+  âmbares-mexueiras, âmbares-pardos, âmbares-pretos, âmbares-vegetais,
+  âmbares-virgens, âmbar-gris, âmbar-mexueira, âmbar-pardo, âmbar-preto,
+  âmbar-vegetal, âmbar-virgem, atto, Bobbio, centi, Chaïm, deci, Dworkin,
+  exa, femto, Ford, Hart, Herbert, Immanuel, Lacordaire, Marinoni, mili,
+  Mitidiero, oxalufã, Perelman, Planck, Ronald, tera, yocto, yotta,
+  zepto, zetta. Colaboração de João Eduardo Strottmann.
+. Inclusão de: saltimbanca e TJDF. Colaboração de João Mac-Cormick. 
+. Exclusão de: sotopor. Colaboração de João Mac-Cormick. 
+. Inclusão de: aformal, atecnicamente, Chiovenda, continuabilidade,
+  desparcialização, desparcializado, dessecencializar, egressibilidade,
+  elipticamente, essencializar, estoicizar, estritíssimo, explicitude,
+  extracomércio, indeslocabilidade, inexcetuado, inindividuado, irrevogado,
+  irrompente, justinianeia, justianeu, personificativo, pertinencial,
+  pertinencialização, pertinencialmente, Pompônio, pré-excludente,
+  e superfluamente. Colaboração de João Eduardo Strottmann.
+. Inclusão de 'coartífice'. Colaboração e-villela.
+. Inclusão de: antiqueda, antroposófico, cavaquinista, hipocontratilidade,
+  hipocontrátil, hipocortisolismo, hiporético, posológico, pré-festa,
+  pré-gravidez, pré-lanche e vídeo-histeroscopia. Colaboração de
+  Eduardo Mundim.
+. Inclusão de: Andreas, anteprojetador, anteprojetar, anticretizado,
+  Antistio, Cincia, evitamento, ficticiamente, Golschmidt, há-o, há-se,
+  iliteral, incontagiação, iniscritibilidade, milieu, Labeo, Lex,
+  Lex Cincia, ordinariedade, pertinencialidade, pré-admissão,
+  pré-eliminação, Próculo, revelatório, sobredireito, supraestatal e 
+  vonThur. Colaboração de João Eduardo Strottmann.
+. Inclusão de: aardvark, aileron, baby-doll, Beagle, bitter, charleston,
+  Colt, copyright, copyleft, curry, Dachshund, Dewar, ecstasy,
+  factoring, Farad, Faraday, Farads, fortran, gap, garamond, hovercraft,
+  Laika, laissez-faire, laissez-passer, linguincinha, overbooking, panzer,
+  pit-bull, pizzaiolo, portland, Reich, riesling, sashimi, sauvignon,
+  shiatsu, shoyu, Sputinik, stout, sushi, tête-à-tête, time-sharing,
+  tomahawk, Vernier e waffle. Colaboração de João Eduardo Strottmann. 
+. Inclusão de: aL, anterocaudal, antimicrossoma, antinucleico,
+  antinúcleo, apócrina, attolitro, cefalo-occipital, cefaloanterior,
+  cefalocaudal, cefalolateral, cefalomedial, cefaloumbilical,
+  cL, daL, depletar, dL, écrina, exalitro, femtolitro, fL, gigalitro,
+  GL, hiperdenso, hipodenso, hL, kL, laudar, loxocélico, macroalbuminúria,
+  megalitro, merócrina, mL, musculotendínea, nL, pericaudal, perimedial,
+  perioccipital, periumbilical, petalitro, pL, pulsoterapia, recaptação,
+  tendinomuscular, teralitro, uropatia, YL, yL, yoctolitro, yottalitro,
+  zeptolitro, zettalitro, ZL, zL e µL. Colaboração de Rogerio Luz Coelho.
+. Inclusão de: autotutelar, averbalidade, correspectividade, delitualmente,
+  derrelinquente, desnegociação, desobjetivar, emancipativo, estatalizar,
+  estatalização, expectativo, inespecificação, inexcessivo, interimístico,
+  interpersonalidade, intraestatal, invalidamente, Goldschmidt, jurislador,
+  Licurgo, paraestatalização, participacional, pré-personificação,
+  privaticidade, pululamento, ratificativo, recepticiedade, reduzinte,
+  semicheio, Siegfried, transubjetivo, unitemporal, tem-se-lhe,
+  tendo-se-lhe, tivemo-lo e negar-lho. Colaboração de João Eduardo
+  Strottmann. 
+. Inclusão de: anteterminação, codecisão, cominatório, extranegocial,
+  indestituibilidade, ingressandos, institutivo, intrastatal,
+  Lessa, membridade e presentativa. Colaboração de João Eduardo
+  Strottmann. 
+. Inclusão de: nomofobia e nomofóbico.
+. Inclusão de: subtópico, apenamento, eletrofísica, µm, torda-anã,
+  tordas-anãs, microfonação, microcrustáceo, microangstrom, microelectródio,
+  microeléctrodo, microelectrômetro, microelectrônico, microgranulita,
+  microinch, micropegmatite, hemonúcleo, bairro-sede e bairros-sede.
   Colaboração de Guilherme Rebecchi.
-. Inclusão de nomes próprios: Alcemar, Alfredinho, Amon-Rá, Camilinha, Cavalheira,
-  Dulcimar, Elza, Fibonacci, Flogêncio, Geldásio, Gotemburgo, Lemaitre, Liane,
-  Lispector, Monique, Rousseff, Talia, Tutmósis.
-. Inclusão de: acadêmico-científico, adesivação, agente-motorista, agrorreformista, almocinho,
-  amassos, americano-canadense, anabela, angioimunoblástico, anglo-nubiano, Ano-Novo, anti-intrusão,
-  antiatrito, antidistúrbio, antienchente, antiferromagnético, antimaçã, antiquark, antiquíssima,
-  antropometricamente, Apicum-Açu, asilo-colônia, astrobiologista, audio-oral, audiocomunicação,
-  audiolingual, auto-outorga, autoafastamento, autoamarrar, autoaquecer, autocicatrização,
-  autocicatrizante, autocicatrizar, autocorrigir, autodefensor, autodesligar, autoimportância,
-  autorizatário, autorresfriar, autossegregação, autossimilar, autotransplante, aventuresco,
-  barocalórico, basco-espanhol, benefício-custo, biobateria, biocélula, biocompósito,
-  biocopo, bioeletrodo, biogerador, biomáscara, biomemória, bionanotecnologia, bioneon,
-  bioviolino, birradical, boias-frias, boreto, Bose-Einstein, branco-amarelado, cães-guias,
-  cambrique, carreamento, carregadíssimo, caxotão, celão, célula-semente, células-T,
-  ciberarma, cibercondríaco, ciberdoutor, ciceronear, ciência-cidadã, científico-cultural,
-  circumbinário, clínico-patológico, cloraminação, coautoral, coevento, cogência,
-  consultor-geral, contrachapa, contrainsurgência, contraplacado, contrarrotação,
-  corpão, criptoassinatura, CTI, data-marco, dB, decotão, decretos-lei, dedo-duro,
-  defletora, desobsessão, destipificação, diarileteno, diarileteno, diarinho, didático-científico,
-  Dif., disciplinamento, Disneylândia, domo, econômico-contributivo, elegantérimo,
-  eletrônico-quântico, engraxadeira, equanimemente, espectropolarimetria, espírito-cultural,
-  espraiamento, estado-nação, estado-proprietário, Estados-Membros, exproprianda, 
-  extrassociedade, ferromagneto, firmezinho, físico-ambiental, físico-operacional,
-  fivelinha, fotodetectora, ganha-ganha, georreferenciamento, geossocialização,
-  giga-hertz, giromodelo, globinho, gluconolactona, grupo-base, hackeado,
-  helicóptero-espião, heliotérmico, hidrofilicidade, hidrofobicidade, hidrogerador,
-  histórico-antropológico, histórico-crítico, histórico-econômico, homem-borracha,
-  homem-elástico, homem-radioativo, hospital-colônia, hospital-escola, ignocelulósico,
-  indedutibilidade, inescondível, inexpropriabilidade, infracionário, ininterruptividade,
-  intercambista, interdição-relâmpago, interruptora, intradomiciliar, intraministeriais,
-  intraurbano, jogos-treino, jurídico-agrário, kandoriano, kryptoniano, lesa-cultura,
-  lesa-democracia, lesa-inteligência, lesa-língua, lesa-natureza, lesa-propriedade,
-  linguístico-comunicativa, maçarico-do-papo-vermelho, macroárea, magneto-óptico,
-  magnetorresistivo, manjelão, máquina-robô, máquinas-robôs, mata-leão, 
-  médico-odontológico, medinho, megaepisódio, megatendência, meritoriamente,
-  meta-análise, meta-humano, mexilhão-dourado, microbomba, microbraço, microcromatografia,
-  microescala, microescala, microfabricação, microfoguete, microlaboratório, microlente,
-  micromúsculo, micropinça, microrressonador, microrrobótico, microválvula, mili-elétron-volt,
-  miniarmarinho, minibolinho, minidocumentário, minissequenciador, molécula-motor,
-  molhável, motorredutor, muletante, mulher-aranha, multicombustível, multiferroico,
-  multipá, município-sede, municípios-sede, nano-orelha, nano-ouvido, nanobioeletrodo,
-  nanocamada, nanocarro, nanocircuito, nanoconcha, nanocristalino, nanodiamante,
-  nanoelétrico, nanoendoscópio, nanofábrica, nanoferramenta, nanofotônico, nanolâmpada,
-  nanomagneto, nanomemória, nanomicrofone, nanorrendimento, nanorrobô, nanotrem,
-  nanotrilho, nanoveículo, nanowatts, nascitura, neuropsicossocial, objeto-partícula,
-  objetos-partícula, obstacularizador, oculoplástico, oftalmogeneticista, oportunistamente,
-  optoquântico, organizatório-funcional, ouvintismo, ouvintizado, país-parceiro, países-parceiros,
-  papuano, para-fiscal, patenteamento, pavilhão-escola, periodozinho, pervasivo, peso-leve,
-  pica-pau-bico-de-marfim, piso-guia, plasmônico, plasmônico, plásmons, poderes-deveres,
-  político-democrático, pombagira, popozudo, Pré-Amazônia, pré-constituído, pré-cozimento,
-  pré-dimensionamento, pré-estadual, pré-incubação, pré-pessoal, pré-político, pré-regulado,
-  pré-texto, prediozinho, prevalecentemente, promissária-compradora, pseudo-obstrução,
-  quântico-eletrônico, quantílico, quasicristal, qubit, reinfestação, reizinho, 
-  relacionamento-relâmpago, reptílico, rigatone, robô-bebê, robô-gêmeo, romance-relâmpago,
-  rubisco, sanfônica, sapo-pulga, sapos-pulga, sarjetão, semicartunesco, semimaterial,
-  sensorial-motora, sequenciamento, sequestro-relâmpago, silício-germânio, site, skate,
-  socioantropológico, socioassistencial, socioespacial, subaglomeração, subaglomerado, 
-  subartigo, subcoleção, subcompacto, substância-traço, sucroenergético, super-hidrofílico,
-  super-hidrofóbico, superanimal, superarcaico, superburaco, supercavalo, superciborgue,
-  superconfidencial, supercriminoso, superemocionado, superesforçado, superestudioso,
-  superfluido, supergigante, supermoço, supermulher, supermutante, superpreciso, supersaga,
-  supertrança, supertrançado, supertratamento, supraétnico, suprarrelacionado, surdocego,
-  surdocegueira, suspeitíssimo, tartalete, teleológico-funcional, teoria-M, teórico-doutrinário,
-  transversalização, tricloroisocianúrico, turbocompressor, ultradenso, ultraminiaturizado,
-  ultraportabilidade, ultrapreciso, ultrapreciso, ultrapreciso, ultrarreligioso, ultras, urbanitário,
-  UTI, Vale-Alimentação, vale-alimentação, Vancouver, vermelho-alaranjado, vertedoura,
-  videodocumentário, vitrocerâmico e Wh.
-
+. Inclusão de: cervicotorácico, glico-hemoglobina e Saramenha.
+  Colaboração de Eduardo Mundim.
+. Correção de cervicodorscostal para cervicodorsocostal.
+  Colaboração de Eduardo Mundim.
+. Inclusão de: caducificante, quejanda, despatrimonializar, Gödel,
+  imobiliaridade, mobiliaridade, voluptuariedade, Labeão,
+  parapertinencialidade, insuperponibilidade, absolutilidade,
+  interadaptação, intromissivo, reclamativa, pré-savigniano, pré-elidida,
+  Desdêmona, Thoreau, Citrapetita, infrapetita, LINDB, omnes, Mévio
+  e adulteramento. Colaboração de João Eduardo Strottmann.
+. Inclusão de: mandibulado, biorrefino, Anglo-Americano, Ricardão e
+  bandeide.
+. Inclusão de: abacinamento, abalaiamento, abaldeamento, abandalhamento,
+  abarbetamento, abarticulamento, abasbacamento, abjuramento,
+  acamponesamento, acamurçamento, acanceramento, aceiramento,
+  aceramento, aclimamento, acobreamento, açoramento, acordamento,
+  acutizamento, adaptamento, adernamento, adimento, adomingamento,
+  adoramento, adquirimento, adubamento, adunamento, afervoramento,
+  afixamento, afuliginamento, afumamento, afundimento, agabamento,
+  agomamento, aguiamento, amaduramento, amoldamento, amolgamento,
+  amontanhamento, amostramento e amuamento. Colaboração de João
+  Eduardo Strottmann. 
+. Inclusão de: abaritãos, abelha-irapuá, abelha-irapuã, abelha-rainha,
+  abóboras-cabaça, abóboras-cabaças, abóboras-carneiras, abóboras-chila,
+  abóboras-chilas, abóboras-d’água, abóboras-de-coroa, abóboras-do-mato,
+  abóboras-gila, abóboras-gilas, abóboras-meninas, abóboras-porqueiras,
+  abrótea-de-três-barbas, âmios-maiores e âmios-vulgares. Colaboração de
+  João Eduardo Strottmann. 
+  
+=======================================================
+GRAMATICAL
+=======================================================
+ Colaboradores do Gramatical nesta versão:
+ João Mac-Cormick, Olivier Halot, João Eduardo Strottmann, Guilherme Rebecchi,
+ Eduardo Mundim, Luyse M. Moura, Marcos Souza, e-villela e Alexandre Vicenzi.    
 =======================================================
 COMO INSTALAR O VERIFICADOR BRASILEIRO NO LIBREOFFICE
 =======================================================
