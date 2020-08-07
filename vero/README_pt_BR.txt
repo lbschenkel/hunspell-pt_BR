@@ -37,8 +37,9 @@ http://pt-br.libreoffice.org/projetos/projeto-vero-verificador-ortografico/
 ======================
 SOBRE ESTA ATUALIZAÇÃO
 ======================
-. Inclusão de: condromalácia, corresidente, treponêmico e linfotrópico.
-  Colaboração de Guilherme Rebecchi;
+. Inclusão de: condromalácia, corresidente, treponêmico e linfotrópico,
+  telecinagem, agranelamento, agrarista. Colaboração de Guilherme Rebecchi;
+  Inclusão de: ribeirão-pretana, telecinagem, agranelamento, agrarista 
 . Inclusão de: antiagregante, coloproctologista, drogadicto, drogadito,
   ectoscopia, intraparotideano, macroangiopatia, microcarcinoma,
   óstio, pseudoinclusão, sistodiastólica e transdérmico.
@@ -51,7 +52,57 @@ SOBRE ESTA ATUALIZAÇÃO
   Estrela;
 . Inclusão de: ribeirão-pretana, telecinagem, agranelamento e
   agrarista. Colaboração de Guilherme Rebecchi;
-  
+. Inclusão de: acreditivo, ato-fato, atos-fatos, autorregramento,
+  casu, deficitante, derrilinquir, eficacial, extracambiariforme,
+  infabibilidade, interdicional, intrajurídico, multigerador,
+  pignorária e plus.  Colaboração João Eduardo Strottmann;
+. Inclusão das sigla dos Conselhos Regionais de Medicina:CREMAL, CREMEB,
+  CREMEC, CREMEGO, CREMEPA, CREMEPE, CREMERN, CREMERO, CREMERS, CREMESC,
+  CREMESE, CREMESP, CRM-AC, CRM-AP, CRM-DF, CRM-ES, CRM-MA, CRM-MS,
+  CRM-MT, CRM-PB, CRM-PI, CRM-PR, CRM-RR, CRM-TO, CRMMG.
+  Colaboração João Eduardo Strottmann;  
+. Exclusão de particípios errados de verbos terminados em brir: abrido,
+  cobrido, recobrido, etc.
+. Correção das sugestões do verbo Aprazer: aprouve, aprouver, etc.
+. Inclusão de: nanocientista, raios-T, Raios-T, fotoeletroquimicamente,
+  bem-resolvido, biocultural, biodecompósito, chinês-asiático, conglobamento,
+  desenhista-escritor, desenhista-escritora, desenhistas-escritores,
+  desenhistas-escritoras, ecomuseu, eletrocomunicação, Estado-juiz,
+  exposado, hidroinjetor, hidroteste, hierárquico-normativo, hipergravidade,
+  histórico-legislativo, indesejadamente, interparte, jurídico-material,
+  juslaborativo, juspublicista, justrabalhista, megacoalizão, microcontinente,
+  neurotecnologia, neurotecnológico, Onça-Pintada, pré-normativo, prequela,
+  rescisivo, semimumificado, semissentado, sobreutilizado, socioparticipativo,
+  subpolo, Sul-Africano, tartaruga-de-kemp, tartarugas-de-kemp, tecnoquímico,
+  Abatiá, Amambai, Anauá, Assaí, Assú, Batayporã, Bozano, Brodowski, Cabrais,
+  Caçu, Candeias, Chiapetta, Chuí, d'Aliança, D'Oeste, Erê, Floraí, Florínia,
+  Igarapé-Mirim, Iguape, Ipira, Itaetê, Itaim, Lago-Açu, Lindenberg, Longá,
+  Mamborê, Matrinchã, Mojuí, Nazária, Orizona, Paraí, Pariquera-Açu,
+  Pompéu, Quebrangulo, Trivelato, Westfália, atílio-vivacquense,
+  westfaliano, bósons, ajardinamento, antiperfuração, extralongo, bereta,
+  carga-paridade, faixas-título, faixa-título, imagem-espelho, kawazulita, LHC,
+  méson-D, metassuperfície, mineral-orgânico, minifábrica, nanorrefrigeração,
+  Tassiane, tecnorgânico, ultraestável. 
+. Inclusão de "Nicômaco". Colaboração de João Eduardo Strottmann;
+. Inclusão de: antimovimento, atentismo, autor-pesquisador, Avanildo, blochiano,
+  civil-militar, contramito, Estados-Maiores, historicização, histórico-estrutural,
+  hitlerianismo, microbateria, microtecnologia, policracia, policrático,
+  político-científico, político-moral, redução-oxidação, romântico-idealista,
+  antiformalismo;
+. Inclusão de: anticelibato, antiterremoto, aprovisionamento, autossuperação,
+  bacterio-rodopsina, bioasfalto, bioconcreto, biofotossensor, cara-pintada,
+  esqueminha, estação-base, femtocélula, fonônico, fotócito, hexacóptero, hipernovo,
+  insuplantável, judaico-messiânico, Luíses, microantena, microcóptero,
+  microperfuração, microperfurado, microrrecorte, mini-internato, miniaeronave,
+  Ministro-Relator, molinhos, nano-óptico, nano-ótico, nanocavidade, nanomotor,
+  nanoscópio, nanoválvula, neoneandertal, neuroprótese, octocóptero, optoacústico,
+  pinguim-rei, pré-computado, pré-industrializado, pré-perfuração, rotaxano,
+  sueco-americano, supereficiente, supereficiente, supergeração, supermaratona,
+  superpesado, superpsicopata, suplantável, termocristal, ultramaciço, vaticanólogo,
+  videorreportagem;
+. Inclusão de:  beatlemania, bereta, carga-paridade, faixa-título, imagem-espelho,
+  kawazulita, LHC, méson-D, metassuperfície, mineral-orgânico, minifábrica,
+  nanorrefrigeração, Tassiane, tecnorgânico, ultraestável;
   
 =======================================================
 COMO INSTALAR O VERIFICADOR BRASILEIRO NO LIBREOFFICE
